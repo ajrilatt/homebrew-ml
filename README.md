@@ -1,0 +1,1 @@
+Creates some basic machine learning models so I could learn their inner mechanisms after my Data course. Note that these scripts don't currently function-- there's a conflict in the numpy / scikit-learn distributions, and because this project has already served its purpose, I'm not going to track it down. 
